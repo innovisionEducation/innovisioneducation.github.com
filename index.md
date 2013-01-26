@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Innovision Education - Home
-tagline: Innovision Education help provide independence through life fulfilling jobs.
+tagline: Innovision Education - helping provide independence through life fulfilling jobs.
 ---
 {% include JB/setup %}
 
@@ -29,12 +29,12 @@ tagline: Innovision Education help provide independence through life fulfilling 
 
 <div class="featurette cursor-pointer">
   <a class="cursor-pointer" onclick="$('#image-to-show').attr('src','../assets/img/iPadMockupParts1084x847.png');$('#image-popup').modal({ keyboard: true, show: true, backdrop: true});">
-    <img class="featurette-image pull-left popup-image img-polaroid" src="../assets/img/iPadMockupParts524x409.png"></img>
+    <img class="featurette-image pull-left popup-image img-polaroid" src="../assets/img/independence.png"></img>
   </a>
   <h2 class="featurette-heading">Independence<br><span class="muted">Through Skills</span></h2>
-  <p class="lead">Everyone at Innovision Education focuses on one simple goal: to help our students transition, find life fulfilling jobs and become independent.</p>
-  <p class="lead">Every action we take must help us reach this this goal or we simply don't do it.</p>
-  <p class="lead">Independence </p>
+  <p class="lead">Everyone at Innovision Education focuses on one simple goal: to help our students become independent through life fulfilling jobs.</p>
+  <p class="lead">Every decision we make keeps this goal in mind.</p>
+  <p class="lead"></p>
 </div>
 
 <hr class="featurette-divider">
