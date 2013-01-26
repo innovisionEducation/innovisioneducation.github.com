@@ -30,11 +30,13 @@ tagline: Innovision Education - helping provide independence through life fulfil
 <div class="featurette cursor-pointer">
   <a class="cursor-pointer" onclick="$('#image-to-show').attr('src','../assets/img/iPadMockupParts1084x847.png');$('#image-popup').modal({ keyboard: true, show: true, backdrop: true});">
     <img class="featurette-image pull-left popup-image img-polaroid" src="../assets/img/independence.png"></img>
+<!-- Image source: http://en.wikipedia.org/wiki/File:TorreAGBARandbluesky.jpg -->
   </a>
   <h2 class="featurette-heading">Independence<br><span class="muted">Through Skills</span></h2>
   <p class="lead">Everyone at Innovision Education focuses on one simple goal: to help our students become independent through life fulfilling jobs.</p>
-  <p class="lead">Every decision we make keeps this goal in mind.</p>
-  <p class="lead"></p>
+  <p class="lead">To do this, we assure our students have the core skills required to be amazing professionals in the IT industry. We do this by using multiple approaches to learning such as iterative learning, mastery in learning, mentoring and student centred learning.</p>
+  <p class="lead">However, the best way to help students is to continually challenge them. Something that is best be done by the family and care givers of our students in conjunction with our educational software.</p>
+  <p class="lead">To represent independence, we've shown the Torre Agbar tower where the Commemoration of Autism Day has taken place.</p>
 </div>
 
 <hr class="featurette-divider">
