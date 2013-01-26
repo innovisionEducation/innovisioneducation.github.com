@@ -1,7 +1,7 @@
 ---
 layout: page
-title: {{ site.title }} - Product
-tagline: School of Programming ASD is a tablet based educational software program which focuses on visual learning for people with ASD.
+title: Innovision Education - Product
+tagline: School of Programming ASD is a tablet based educational software program which focuses on Innovision Education for people with ASD.
 ---
 {% include JB/setup %}
 

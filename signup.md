@@ -1,11 +1,11 @@
 ---
 layout: post
-title: {{ site.title }} - Signup
+title: Innovision Education - Signup
 tagline: Signup to become a member of our community.
 ---
 {% include JB/setup %}
 
-# {{ site.title }} - Signup
+# Innovision Education - Signup
 We are looking for people invested in the ASD community who are interested in using our alpha products and giving us feedback.
 
 We will not share your email with anyone.

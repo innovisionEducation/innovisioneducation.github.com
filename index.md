@@ -1,7 +1,7 @@
 ---
 layout: page
-title: {{ site.title }} - Home
-tagline: {{ site.title }} help provide independence through life fulfilling jobs.
+title: Innovision Education - Home
+tagline: Innovision Education help provide independence through life fulfilling jobs.
 ---
 {% include JB/setup %}
 
@@ -32,7 +32,7 @@ tagline: {{ site.title }} help provide independence through life fulfilling jobs
     <img class="featurette-image pull-left popup-image img-polaroid" src="../assets/img/iPadMockupParts524x409.png"></img>
   </a>
   <h2 class="featurette-heading">Independence<br><span class="muted">Through Skills</span></h2>
-  <p class="lead">Everyone at {{ site.title }} focuses on one simple goal: to help our students transition, find life fulfilling jobs and become independent.</p>
+  <p class="lead">Everyone at Innovision Education focuses on one simple goal: to help our students transition, find life fulfilling jobs and become independent.</p>
   <p class="lead">Every action we take must help us reach this this goal or we simply don't do it.</p>
   <p class="lead">Independence </p>
 </div>
@@ -43,7 +43,7 @@ tagline: {{ site.title }} help provide independence through life fulfilling jobs
   <a class="cursor-pointer" onclick="$('#image-to-show').attr('src','../assets/img/iPadMockupVision1084x847.png');$('#image-popup').modal({ keyboard: true, show: true, backdrop: true});">
     <img class="featurette-image pull-right popup-image img-polaroid" src="../assets/img/iPadMockupVision524x409.png"></img>
   </a>
-  <h2 class="featurette-heading">Visual Learning<br><span class="muted">For Visual Thinkers</span></h2>
+  <h2 class="featurette-heading">Innovision Education<br><span class="muted">For Visual Thinkers</span></h2>
   <p class="lead"></p>
 </div>
 

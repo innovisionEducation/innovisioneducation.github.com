@@ -1,7 +1,7 @@
 ---
 layout: page
-title: {{ site.title }} - The Team
-tagline: Meet our team: Greg Block, Cheryl Checkers, Eric Hosick and Julie Kincaid.
+title: Innovision Education - The Team
+tagline: Meet our team with Greg Block, Cheryl Checkers, Eric Hosick and Julie Kincaid.
 ---
 {% include JB/setup %}
 

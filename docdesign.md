@@ -1,6 +1,6 @@
 ---
 layout: page
-title: {{ site.title }} - Documentation
+title: Innovision Education - Documentation
 tagline: Blog and Such
 group: navigation
 ---

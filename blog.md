@@ -1,7 +1,7 @@
 ---
 layout: page
-title: {{ site.title }}
-tagline: Updates about {{ site.title }}.
+title: Innovision Education
+tagline: Updates about Innovision Education.
 group: navigation
 ---
 {% include JB/setup %}

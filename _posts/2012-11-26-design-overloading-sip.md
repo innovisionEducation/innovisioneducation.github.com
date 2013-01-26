@@ -158,7 +158,7 @@ We are now able to support any combination of addition between the primitive dat
 
 ## Why We Use "With" Properties
 
-Since or framework is used with Visual Learning Solutions, we want to be able to visually represent operations without focusing on the primitives we are operating on.
+Since or framework is used with Innovision Education, we want to be able to visually represent operations without focusing on the primitives we are operating on.
 
 ### Visual Composition
 
