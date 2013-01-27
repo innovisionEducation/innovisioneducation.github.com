@@ -28,10 +28,8 @@ tagline: Innovision Education - helping provide independence through life fulfil
 </div>  
 
 <div class="featurette cursor-pointer">
-  <a class="cursor-pointer" onclick="$('#image-to-show').attr('src','../assets/img/iPadMockupParts1084x847.png');$('#image-popup').modal({ keyboard: true, show: true, backdrop: true});">
-    <img class="featurette-image pull-left popup-image img-polaroid" src="../assets/img/independence.png"></img>
-<!-- Image source: http://en.wikipedia.org/wiki/File:TorreAGBARandbluesky.jpg -->
-  </a>
+  <img class="featurette-image pull-left popup-image img-polaroid" src="../assets/img/independence.png"></img>
+  <!-- Image source: http://en.wikipedia.org/wiki/File:TorreAGBARandbluesky.jpg -->
   <h2 class="featurette-heading">Independence<br><span class="muted">Through Skills</span></h2>
   <p class="lead">Everyone at Innovision Education focuses on one simple goal: to help our students become independent through life fulfilling jobs.</p>
   <p class="lead">To do this, we assure our students have the core skills required to be amazing professionals in the IT industry. We do this by using multiple approaches to learning such as iterative learning, mastery in learning, mentoring and student centred learning.</p>
@@ -42,21 +40,12 @@ tagline: Innovision Education - helping provide independence through life fulfil
 <hr class="featurette-divider">
 
 <div class="featurette cursor-pointer">
-  <a class="cursor-pointer" onclick="$('#image-to-show').attr('src','../assets/img/iPadMockupVision1084x847.png');$('#image-popup').modal({ keyboard: true, show: true, backdrop: true});">
-    <img class="featurette-image pull-right popup-image img-polaroid" src="../assets/img/iPadMockupVision524x409.png"></img>
-  </a>
-  <h2 class="featurette-heading">Innovision Education<br><span class="muted">For Visual Thinkers</span></h2>
-  <p class="lead"></p>
-</div>
-
-<hr class="featurette-divider">
-
-<div class="featurette cursor-pointer">
-  <a class="cursor-pointer" onclick="$('#image-to-show').attr('src','../assets/img/iPadMockupParts1084x847.png');$('#image-popup').modal({ keyboard: true, show: true, backdrop: true});">
-    <img class="featurette-image pull-left popup-image img-polaroid" src="../assets/img/iPadMockupParts524x409.png"></img>
-  </a>
-  <h2 class="featurette-heading">Visual Thinkers<br><span class="muted">With Valued Skills</span></h2>
-  <p class="lead">Technology companies need people who can solve tough problems. </p>
+  <img class="featurette-image pull-right popup-image img-polaroid" src="../assets/img/visualthinking.png"></img>
+  <!-- http://en.wikipedia.org/wiki/File:Colouring_pencils.jpg -->
+  <h2 class="featurette-heading">Learning Tools<br><span class="muted">For Visual Thinkers</span></h2>
+  <p class="lead">People with ASD tend to understand and visualise the world in images: to. It makes sense to allow visual thinkers to create, experiment, design and learn in a visually manner.</p>
+  <p class="lead">Our education product, School Of Programming ASD, is a 100% visual learning environment for programming where students are able to learn about and create programs visually.</p>
+  <p class="lead">You can learn more about our product <a href="/products.html">here</a>.</p>
 </div>
 
 <!--
