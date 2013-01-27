@@ -10,6 +10,7 @@ tagline: Innovision Education - helping provide independence through life fulfil
 <div class="featurette cursor-pointer">
   <a class="cursor-pointer" onclick="$('#image-to-show').attr('src','../assets/img/mockup01_1644x1284.png');$('#image-popup').modal({ keyboard: true, show: true, backdrop: true});">
     <img class="featurette-image pull-right popup-image img-polaroid" src="../assets/img/mockup01_524x409.png"></img>
+	<!-- The image contains Rails, a copyrighted character of the transformer universe. We are currently using this image under fair-use. If the copyright holder doth protest, we will immediately remove this image and replace it with another character. -->
   </a>
   
 <!--  <iframe class="featurette-video pull-right" src="http://player.vimeo.com/video/41001941?api=0" width="640" height="360" frameborder="0" webkitAllowFullScreen = "webkitAllowFullScreen" mozallowfullscreen = "mozallowfullscreen" allowFullScreen = "allowFullScreen"> </iframe> -->
