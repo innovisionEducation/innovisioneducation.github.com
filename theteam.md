@@ -23,7 +23,7 @@ tagline: Meet our team with Greg Block, Cheryl Checkers, Eric Hosick and Julie K
     <img class="featurette-image pull-right popup-image" src="../assets/img/ericHosick.png"></img>
   <h2 class="featurette-heading">Eric Hosick</h2>
   <h2 class="featurette-heading muted">Co-Founder</h2>
-  <p class="lead">Eric Hosick received his CS degree from San Jose State University and Graduate Certificate in Tertiary Learning from the Royal Melbourne Institute of Technology. At the age of 16, Eric was involved in his first startup.</p>
+  <p class="lead">Eric Hosick received his CS degree from San Jose State University and Graduate Certificate in Tertiary Learning from the Royal Melbourne Institute of Technology. At the age of 16, Eric was involved in his first startup. Today, and 25 years of technology and leadership experience later, Eric is focusing on fundamentally new ways of approaching IT education for Neurodiverse students.</p><p class="lead">Building on his experience in software engineering, two and a half years of lecturing and twenty years of startup experience, Eric hopes to build out an amazing team that will bring out truly useful educational products for aspiring Neurodiverse IT professionals. </p>
 </div>
 
 <div class="featurette cursor-pointer">
