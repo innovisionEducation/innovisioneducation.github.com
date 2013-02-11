@@ -30,10 +30,9 @@ tagline: Meet our team with Greg Block, Cheryl Checkers, Eric Hosick and Julie K
     <img class="featurette-image pull-left popup-image" src="../assets/img/julieKincaid.png"></img>
   <h2 class="featurette-heading">Julie Kincaid</h2>
   <h2 class="featurette-heading muted">Advisor</h2>
-  <p class="lead">TBD</p>
+  <p class="lead">Julie B. Kincaid serves as Coordinator of Student Services and Recruitment for Nova Southeastern University’s College of Pharmacy.  She is also completing her MS in Education with a concentration in Instructional Technology and Distance Education from Nova Southeastern University. Her professional interests include educational technology services, online course content implementation, and holistic teaching approaches.</p><p class="lead">With more than 20 years experience in sales and marketing, she brings a customer service perspective to higher education.  Julie is also a steward within the life and medical science/biotech community by serving on various committees and business groups with an emphasis on creating cooperative partnerships between education and industry.
+Please let me know if this is what you had in mind.</p>
 </div>
-
-
 
 
 <!--
