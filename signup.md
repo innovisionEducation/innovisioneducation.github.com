@@ -6,7 +6,7 @@ tagline: Signup to become a member of our community.
 {% include JB/setup %}
 
 # Innovision Education - Signup
-We are looking for people invested in the ASD community who are interested in using our alpha products and giving us feedback.
+We are looking for people invested in the ASD community who are interested in helping us make a difference.
 
 We will not share your email with anyone.
 

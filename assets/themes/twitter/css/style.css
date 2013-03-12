@@ -284,6 +284,35 @@ body {
   letter-spacing: -1px;
 }
 
+/* Thin out the marketing headings 2 */
+.featurette-heading2 {
+  font-size: 50px;
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+  color: #2A695D;
+}
+
+/* Thin out the marketing headings 3 */
+.featurette-heading3 {
+  font-size: 50px;
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+  color: #6080D2;
+}
+
+
+/* Thin out the marketing headings 4 */
+.featurette-heading4 {
+  font-size: 50px;
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+  color: #E32A4A;
+}
+
+
 /* Huge Divider
 --------------------- */
 

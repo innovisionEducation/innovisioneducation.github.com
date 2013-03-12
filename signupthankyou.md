@@ -8,3 +8,4 @@ tagline: Innovision Education signup was successful.
 # Innovision Education - Signup Successful
 Your signup was successful.
 Return to [Innovision Education](/index.html).
+
