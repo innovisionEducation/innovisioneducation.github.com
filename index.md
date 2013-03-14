@@ -44,8 +44,8 @@ tagline: Innovision Education - helping provide independence through life fulfil
   <img class="featurette-image pull-right popup-image img-polaroid" src="../assets/img/visualthinking.png"></img>
   <!-- http://en.wikipedia.org/wiki/File:Colouring_pencils.jpg -->
   <h2 class="featurette-heading4">Multi-modal learning tools<br><span class="muted">for neurodiverse thinkers</span></h2>
-  <p class="lead">Because people on the Autism spectrum tend to understand and visualise the world in images, our teaching platform is designed to encourage these visual thinkers to create, experiment, design and learn in a visually manner.</p>
-  <p class="lead">Our educational product, School Of Programming ND, is a multi-modal learning environment for programming where students are able to learn about create programs.</p>
+  <p class="lead">Neurodiverse thinkers tend to understand and visualize the world in images, sounds and videos.</p>
+  <p class="lead">Our educational product, School Of Programming ND, is a multi-modal learning environment for programming and problem-solving where students learn to break complex tasks into logical units.</p>
   <p class="lead">You can learn more about our product <a href="/products.html">here</a>.</p>
 </div>
 
