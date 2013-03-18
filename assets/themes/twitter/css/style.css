@@ -397,22 +397,6 @@ body {
     height: auto;
     padding: 0;
   }
-  .featurette-image.pull-left,
-  .featurette-image.pull-right {
-    display: block;
-    float: none;
-    max-width: 40%;
-    margin: 0 auto 20px;
-  }
-
-
-  .featurette-video.pull-left,
-  .featurette-video.pull-right {
-    display: block;
-    float: none;
-    max-width: 100%;
-    margin: 0 auto 20px;
-  }
 
 	.navbar {
 		margin-bottom: 20px;
