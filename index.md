@@ -1,66 +1,55 @@
 ---
 layout: page
 title: Innovision Education - Home
-tagline: Innovision Education - helping provide independence through life fulfilling jobs.
+tagline: Innovision Education - Strength-based educational software with an interest-centered, strength-based focus for neurodiverse students.
 ---
 {% include JB/setup %}
 
 {% assign posts_collate = site.posts %}
 
-<div class="featurette cursor-pointer">
-  <a class="cursor-pointer" onclick="$('#image-to-show').attr('src','../assets/img/mockup01_1644x1284.png');$('#image-popup').modal({ keyboard: true, show: true, backdrop: true});">
-    <img class="featurette-image pull-right popup-image img-polaroid" src="../assets/img/mockup01_524x409.png"></img>
-	<!-- The image contains Rails, a copyrighted character of the transformer universe. We are currently using this image under fair-use. If the copyright holder doth protest, we will immediately remove this image and replace it with another character. -->
-  </a>
-  
-<!--  <iframe class="featurette-video pull-right" src="http://player.vimeo.com/video/41001941?api=0" width="640" height="360" frameborder="0" webkitAllowFullScreen = "webkitAllowFullScreen" mozallowfullscreen = "mozallowfullscreen" allowFullScreen = "allowFullScreen"> </iframe> -->
-  <h2 class="featurette-heading2">Fostering independence</h2>
-  <h2 class="featurette-heading muted">through life-fulfilling jobs</h2>
-<!--  <h2 class="featurette-heading muted no-underline"><a href="/technology.html">See Our Vision</a></h2> -->
-</div>
+<div class="featurette ">
+	<h2 class="featurette-heading2">Our Product:</h2>
+	<p class="lead pagination-centered" style="font-weight:bold; font-style:italic">We offer a visually-oriented multimodal educational platform designed specifically to elicit the hidden abilities and strengths of neurodiverse students.</p>
 
-<!--
-<div class="huge-divider pagination-centered">
-  <h1>OUR VISION FOR THE NEURODIVERSE STUDENT</h1>
-</div>  
--->
+	<h2 class="featurette-heading3">Our Students Include:</h2>
 
-<div class="featurette cursor-pointer">
-  <h2 class="featurette-heading">Our Vision For The Neurodiverse Student</h2>
-</div>  
+	<ol>
+		<li>Asperber’s Syndrome</li>
+		<li>Autism</li>
+		<li>Non-Verbal Learning Disorder</li>
+		<li>Attention Deficit Disorders</li>
+		<li>Learning Differences</li>
+		<li>Other Neurological Learning Issues</li>
+	</ol>
 
+	<h2 class="featurette-heading4">Our Courses:</h2>
+	
+	<ol>
+		<li>Allow students to work at their own pace</li>
+		<li>Encourage students to customize their reward system based on their area of interest</li>
+		<li>Challenge students to solve real world technology problems</li>
+		<li>Enable collaboration, communication and mentorship</li>
+		<li>Develop highly sought after IT skills in a fun visually stimulating environment</li>
+		<li>Teach useful that could translate to a high-level job as a software engineer</li>
+	</ol>
 
-<div class="featurette cursor-pointer">
-<!--  <img class="featurette-image pull-left popup-image img-polaroid" src="../assets/img/independence.png"></img> -->
-  <!-- Image source: http://en.wikipedia.org/wiki/File:TorreAGBARandbluesky.jpg -->
-  <h2 class="featurette-heading3">Promoting independence<br><span class="muted">through skill acquisition</span></h2>
-  <p class="lead">Innovision Education focuses on a simple goal: to help our students become independent through life-fulfilling jobs. To do this, we provide our students with the core skills required to be successful professionals in the information Technology (IT) industry.</p>
-  <p class="lead">We believe the best way to help students is to continually challenge them. Our educational platform allows students to collaborate with family members and caregivers to improve learning outcomes</p>
-</div>
+	<h2 class="featurette-heading5">Our Technology:</h2>
 
-<!-- <hr class="featurette-divider"> -->
+	<p class="lead">School of Programming Neuro (SOP Neuro) is an environment that allows a student to learn to write software programs using visual tools. The student drags software parts from a toolbox, arranges the parts on a canvas, and connects the parts to direct the flow of activity through assembly.</p>
 
-<div class="featurette cursor-pointer">
-  <img class="featurette-image pull-right popup-image img-polaroid" src="../assets/img/visualthinking.png"></img>
-  <!-- http://en.wikipedia.org/wiki/File:Colouring_pencils.jpg -->
-  <h2 class="featurette-heading4">Multi-modal learning tools<br><span class="muted">for neurodiverse thinkers</span></h2>
-  <p class="lead">Neurodiverse thinkers tend to understand and visualize the world in images, sounds and videos.</p>
-  <p class="lead">Our educational product, School Of Programming ND, is a multi-modal learning environment for programming and problem-solving where students learn to break complex tasks into logical units.</p>
-  <p class="lead">You can learn more about our product <a href="/products.html">here</a>.</p>
-</div>
+	<p class="lead">By assembling parts, the student learns how to break complex tasks into logical units, a critical component of problem-solving.</p>
 
-<!--
-<div class="featurette">
-  <p class="pagination-centered">
-    <iframe class="featurette-video" src="http://player.vimeo.com/video/52974956" width="940" height="530" frameborder="0" webkitAllowFullScreen = "webkitAllowFullScreen" mozallowfullscreen = "mozallowfullscreen" allowFullScreen = "allowFullScreen"> </iframe>
-  </p>
-  <p class="lead">Keep as video example</p>
-</div>
+	<div class="featurette ">
+		<p class="pagination-centered">
+				  <a class="cursor-pointer" onclick="$('#image-to-show').attr('src','../assets/img/mockup01_1644x1284.png');$('#image-popup').modal({ keyboard: true, show: true, backdrop: true});">
 
--->
-
-<div class="signup-divider pagination-centered">
-  <h1>How You Can Help</h1>
-  <a class="btn btn-large btn-success" href="/signup.html">Sign Up Here</a>
+	    	<img class="featurette-image popup-image img-polaroid" src="../assets/img/mockup01_524x409.png"></img>
+		<!-- The image contains Rails, a copyrighted character of the transformer universe. We are currently using this image under fair-use. If the copyright holder doth protest, we will immediately remove this image and replace it with another character. -->
+	  </a>
+		</p>
+	</div>
+	
+	<p class="lead pagination-centered" style="font-weight:bold; font-style:italic">School of Programming Neuro</p>
+		
 </div>
 

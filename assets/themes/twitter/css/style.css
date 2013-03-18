@@ -3,6 +3,11 @@ html, body {
   font-family: 'Pontano Sans', sans-serif;
 }
 
+ol {
+	list-style-type: disc;
+}
+
+
 .cursor-pointer a:hover, .cursor-pointer a:active {
 	cursor: pointer;
 }
@@ -312,6 +317,14 @@ body {
   color: #E32A4A;
 }
 
+/* Thin out the marketing headings 4 */
+.featurette-heading5 {
+  font-size: 50px;
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+  color: #EC6B00;
+}
 
 /* Huge Divider
 --------------------- */
@@ -341,7 +354,7 @@ body {
 
 	.modal {
 		width: 740px;
-	  margin-left: -370px; /* - width/2 */	
+		margin-left: -370px; /* - width/2 */	
 	}
 
 	.modal-body {
@@ -364,9 +377,10 @@ body {
 	}
 
   .container.navbar-wrapper {
-    margin-bottom: 0;
+	margin-bottom: 0;
     width: auto;
   }
+
   .navbar-inner {
     border-radius: 0;
   }
