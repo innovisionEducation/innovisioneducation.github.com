@@ -7,7 +7,6 @@ ol {
 	list-style-type: disc;
 }
 
-
 .cursor-pointer a:hover, .cursor-pointer a:active {
 	cursor: pointer;
 }
@@ -95,7 +94,7 @@ h6 {
 }
 
 .hero-unit p, li, ul {
-	font-size: 24px;
+	font-size: 21px;
 	line-height: 28px;
 	padding-bottom: 6px;
 }
@@ -283,7 +282,7 @@ body {
 
 /* Thin out the marketing headings */
 .featurette-heading {
-  font-size: 50px;
+  font-size: 46px;
   font-weight: 300;
   line-height: 1;
   letter-spacing: -1px;
@@ -291,7 +290,7 @@ body {
 
 /* Thin out the marketing headings 2 */
 .featurette-heading2 {
-  font-size: 50px;
+  font-size: 46px;
   font-weight: 300;
   line-height: 1;
   letter-spacing: -1px;
@@ -300,7 +299,7 @@ body {
 
 /* Thin out the marketing headings 3 */
 .featurette-heading3 {
-  font-size: 50px;
+  font-size: 46px;
   font-weight: 300;
   line-height: 1;
   letter-spacing: -1px;
@@ -310,7 +309,7 @@ body {
 
 /* Thin out the marketing headings 4 */
 .featurette-heading4 {
-  font-size: 50px;
+  font-size: 46px;
   font-weight: 300;
   line-height: 1;
   letter-spacing: -1px;
@@ -319,7 +318,7 @@ body {
 
 /* Thin out the marketing headings 4 */
 .featurette-heading5 {
-  font-size: 50px;
+  font-size: 46px;
   font-weight: 300;
   line-height: 1;
   letter-spacing: -1px;
