@@ -14,7 +14,7 @@ tagline: Innovision Education - Strength-based educational software with an inte
 	<h2 class="featurette-heading3">Our Students Include:</h2>
 
 	<ol>
-		<li>Asperber’s Syndrome</li>
+		<li>Asperger's Syndrome</li>
 		<li>Autism</li>
 		<li>Non-Verbal Learning Disorder</li>
 		<li>Attention Deficit Disorders</li>
